@@ -165,44 +165,23 @@ date filtering.
 
 ### Q1. Display all employees.
 
-Retrieve all columns from `t_employees`.
-
 ### Q2. Display employee number, first name and last name.
-
-Show `employee number`,`first_name` and `last_name` of all employees.
 
 ### Q3. Find employees with gender `M`.
 
-Display the employee number and name of all male employees.
-
-### Q4. Find employees hired after 1995.
-
-Display employees whose `hire_date` is after `1995-01-01`.
+### Q4. Find employees with gender `F`.
 
 ### Q5. Find employees hired before 1995.
 
-Display employee details for employees hired before `1995-01-01`.
-
 ### Q6. Sort employees by hire date.
-
-Display employees ordered from earliest to latest hire date.
 
 ### Q7. Find employees whose first name starts with `A`.
 
-Use the `LIKE` operator.
-
 ### Q8. Find employees whose last name contains `a`.
-
-Use pattern matching with `LIKE`.
 
 ### Q9. Count the total number of employees.
 
-Return the total employee count.
-
 ### Q10. Display unique genders.
-
-Use `DISTINCT` to display the different values available in the `gender`
-column.
 
 ------------------------------------------------------------------------
 
