@@ -167,9 +167,9 @@ date filtering.
 
 Retrieve all columns from `t_employees`.
 
-### Q2. Display employee names.
+### Q2. Display employee number, first name and last name.
 
-Show `first_name` and `last_name` of all employees.
+Show `employee number`,`first_name` and `last_name` of all employees.
 
 ### Q3. Find employees with gender `M`.
 
